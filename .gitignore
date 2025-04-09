@@ -1,0 +1,32 @@
+# Virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Environment variables / secrets
+.env
+
+# Editor/IDE configs
+.vscode/
+.idea/
+*.swp
+
+# macOS system files
+.DS_Store
+
+# Logs
+*.log
+
+# Coverage / testing
+htmlcov/
+.tox/
+.coverage
+.pytest_cache/
+
+# Flask session or instance files (optional)
+instance/
+*.bak
